@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YtelAPI.Standard", "YtelAPI.Standard/YtelAPI.Standard.csproj", "{02a4e6d6-6e5b-4682-822e-113711c8adc0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YtelAPI.Tests", "YtelAPI.Tests/YtelAPI.Tests.csproj", "{a0c689ee-c4bd-428b-87e6-cc91f49317f1}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {02a4e6d6-6e5b-4682-822e-113711c8adc0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {02a4e6d6-6e5b-4682-822e-113711c8adc0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {02a4e6d6-6e5b-4682-822e-113711c8adc0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {02a4e6d6-6e5b-4682-822e-113711c8adc0}.Release|Any CPU.Build.0 = Release|Any CPU
+        {a0c689ee-c4bd-428b-87e6-cc91f49317f1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {a0c689ee-c4bd-428b-87e6-cc91f49317f1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {a0c689ee-c4bd-428b-87e6-cc91f49317f1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {a0c689ee-c4bd-428b-87e6-cc91f49317f1}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
